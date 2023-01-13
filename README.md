@@ -85,9 +85,32 @@ const calculateSalesTax = (item: CartItemInterface): number => {
 };
 ```
 
-# Getting Started with The Project
+### Receipt Solution Images
 
-## Available Scripts
+---
+
+#### Cart List 1 Receipt
+
+![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart1.png?raw=true)
+
+#### Cart List 2 Receipt
+
+![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart2.png?raw=true)
+
+#### Cart List 3 Receipt
+
+![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart3.png?raw=true)
+
+### Future Improvements
+
+- Add a login system.
+- Database to store the products and cart items.
+- Add a payment gateway.
+- Add a search bar to search for products.
+
+## Getting Started with The Project
+
+### Available Scripts
 
 In the project directory, you can run:
 
