@@ -101,6 +101,14 @@ const calculateSalesTax = (item: CartItemInterface): number => {
 
 ![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart3.png?raw=true)
 
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/burdeamit/nozama-client/blob/main/public/solution/nozama_preview.webm" type="video/mp4" autoplay>
+  </video>
+</figure>
+<!-- blank line -->
+
 ### Future Improvements
 
 - Add a login system.
