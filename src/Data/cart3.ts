@@ -1,0 +1,53 @@
+import CartItemInterface from "../Models/CartItemInterface";
+
+const cartListThree: CartItemInterface[] = [
+  {
+    id: "6",
+    name: "Calvin Klein Perfume",
+    price: 27.99,
+    stockAmount: 100,
+    quantity: 1,
+    image: "./images/perfume.jpg",
+    description: "A imported bottle of perfume 2",
+    type: "Cosmetics",
+    isImported: false,
+    isTaxable: false,
+  },
+  {
+    id: "7",
+    name: "Mysore Sandal Perfume",
+    price: 18.99,
+    stockAmount: 100,
+    quantity: 1,
+    image: "./images/perfume.jpg",
+    description: "A local bottle of perfume",
+    type: "Cosmetics",
+    isImported: false,
+    isTaxable: true,
+  },
+
+  {
+    id: "8",
+    name: "Headache Pills",
+    price: 9.75,
+    stockAmount: 100,
+    quantity: 1,
+    image: "./images/pills.jpg",
+    description: "Packet of headache pills",
+    type: "Medical",
+    isImported: false,
+    isTaxable: false,
+  },
+  {
+    id: "9",
+    name: "A box of imported chocolates",
+    price: 11.25,
+    stockAmount: 100,
+    quantity: 1,
+    image: "./images/chocolate_box.jpg",
+    description: "A box of imported chocolates",
+    type: "Food",
+    isImported: false,
+    isTaxable: false,
+  },
+];

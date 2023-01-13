@@ -1,0 +1,13 @@
+.product-img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.product-img {
+    height: auto;
+    max-height: 170px;
+    object-fit: cover;
+    border-radius: 4px;
+}
