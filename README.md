@@ -91,23 +91,15 @@ const calculateSalesTax = (item: CartItemInterface): number => {
 
 #### Cart List 1 Receipt
 
-![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart1.png?raw=true)
+![Receipt 1](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart1.png?raw=true)
 
 #### Cart List 2 Receipt
 
-![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart2.png?raw=true)
+![Receipt 2](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart2.png?raw=true)
 
 #### Cart List 3 Receipt
 
-![Receipt](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart3.png?raw=true)
-
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://github.com/burdeamit/nozama-client/blob/main/public/solution/nozama_preview.webm" type="video/mp4" autoplay>
-  </video>
-</figure>
-<!-- blank line -->
+![Receipt 3](https://github.com/burdeamit/nozama-client/blob/main/public/solution/Cart3.png?raw=true)
 
 ### Future Improvements
 
