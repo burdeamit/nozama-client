@@ -16,7 +16,7 @@ const cartListOne: CartItemInterface[] = [
 
   {
     id: "2",
-    name: "Best of Kishore Kumar",
+    name: "Music CD : Kishore Kumar",
     price: 14.99,
     stockAmount: 100,
     quantity: 1,

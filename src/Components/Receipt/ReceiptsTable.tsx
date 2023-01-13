@@ -10,19 +10,19 @@ const columns: GridColDef[] = [
     field: "name",
     headerName: "Name",
     type: "string",
-    width: 150,
+    width: 350,
   },
   {
     field: "quantity",
     headerName: "Quantity",
     type: "number",
-    width: 150,
+    width: 100,
   },
   {
     field: "price",
     headerName: "Price",
     type: "number",
-    width: 110,
+    width: 100,
     editable: true,
   },
   {
@@ -31,16 +31,15 @@ const columns: GridColDef[] = [
     description:
       "Imported items have a 5% tax rate, non-exempt items have a 10% tax rate.",
     type: "number",
-    width: 110,
+    width: 100,
     editable: true,
   },
   {
     field: "productTotal",
     headerName: "Total",
     type: "number",
-    description: "This column has a value getter and is not sortable.",
     sortable: false,
-    width: 160,
+    width: 100,
   },
 ];
 

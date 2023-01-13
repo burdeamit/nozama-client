@@ -11,7 +11,7 @@ import {
   calculateTotalSalesTax,
   calculateTotalCost,
 } from "../Helpers/ReceiptGenerator";
-const Receipts: React.FC = () => {
+const Receipts: React.FC = (): JSX.Element => {
   const { items } = useCart();
 
   const ReceiptData: ReceiptInterface[] = items.map(

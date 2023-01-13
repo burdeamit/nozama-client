@@ -8,6 +8,8 @@ import { useNavigate } from "react-router-dom";
 function CartsPage(): JSX.Element {
   const { items } = useCart();
   const navigate = useNavigate();
+
+  // Checkout Logic
   const checkout = () => {
     Swal.fire({
       title: "Confirm Checkout",
